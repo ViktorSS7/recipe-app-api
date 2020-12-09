@@ -1,4 +1,4 @@
-FROM python:3.7-alphine
+FROM python:3.10-rc-alpine
 MAINTAINER morshc45
 
 ENV PYTHONUNBUFFERED 1
